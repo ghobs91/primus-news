@@ -29,6 +29,6 @@ https://investors.delltechnologies.com/rss/news-releases.xml
 https://jpmorganchaseco.gcs-web.com/rss/news-releases.xml
 https://ir.netflix.net/rss/pressrelease.aspx
 https://ir.paramount.com/rss/news-releases.xml
-https://www.globenewswire.com/RssFeed/subjectcode/9-Company%20Announcement/feedTitle/GlobeNewswire%20-%20Company%20Announcement
 https://www.globenewswire.com/RssFeed/subjectcode/21-Initial%20Public%20Offerings/feedTitle/GlobeNewswire%20-%20Initial%20Public%20Offerings
 https://www.globenewswire.com/RssFeed/subjectcode/72-Press%20Releases/feedTitle/GlobeNewswire%20-%20Press%20Releases
+https://news.un.org/feed/subscribe/en/news/all/rss.xml
