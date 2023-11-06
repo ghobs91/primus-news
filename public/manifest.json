@@ -1,6 +1,6 @@
 {
-  "short_name": "rssTea",
-  "name": "rssTea Rss Reader",
+  "short_name": "Primus News",
+  "name": "Primus News",
   "icons": [
     {
       "src": "apple-touch-icon.png",
@@ -17,8 +17,8 @@
   ],
   "start_url": "index.html",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#000000",
-  "description": "rssTea is a RSS reader and Podcast web app that utilises Github Actions to fetch feeds and display them.",
-  "categories": ["social", "news"]
+  "theme_color": "#151515",
+  "background_color": "#151515",
+  "description": "Actionable news, directly from the source",
+  "categories": ["news"]
 }
