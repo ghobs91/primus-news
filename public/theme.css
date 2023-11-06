@@ -131,7 +131,9 @@ div#filter {
     
 }
 
-
+.channel-dropdown {
+  width: 120px;
+}
 select {
     border: 1px solid #e9f2fb;
     border:1px solid  var(--lightgrey);
