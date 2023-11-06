@@ -1,4 +1,4 @@
-# Primus News - Actionable news, directly from the source
+# Primus News - Actionable news, directly from the primary source
 
 Primus News aims to focus on news with two qualities:
 
