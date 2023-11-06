@@ -19,6 +19,6 @@
   "display": "standalone",
   "theme_color": "#151515",
   "background_color": "#151515",
-  "description": "Actionable news, directly from the source",
+  "description": "Actionable news, directly from the primary source",
   "categories": ["news"]
 }
