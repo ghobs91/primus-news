@@ -1,8 +1,8 @@
-# rssTea - RSS Reader and Podcast PWA using Github Actions
+# Primus News - RSS Reader and Podcast PWA using Github Actions
 
-rssTea is a lightweight web application that allows you to read RSS feeds and listen to podcasts directly in your browser. It can fetch feeds from a list provided in a text file and generate an RSS feed for easy consumption. This project utilizes PHP for feed parsing and generation. Additionally, it includes a front-end interface for browsing and playing content.
+Primus News is a lightweight web application that allows you to read RSS feeds and listen to podcasts directly in your browser. It can fetch feeds from a list provided in a text file and generate an RSS feed for easy consumption. This project utilizes PHP for feed parsing and generation. Additionally, it includes a front-end interface for browsing and playing content.
 
-Check the frontend live on - https://avadhesh18.github.io/rssTea/
+Check the frontend live on - https://ghobs91.github.io/Primus News/
 
 ## Features
 
@@ -18,7 +18,7 @@ Check the frontend live on - https://avadhesh18.github.io/rssTea/
 
 1. Fork the repo and edit the feeds.txt file to add your feeds.
 2. Enable Github pages on your repo and select deply from "Github Actions".
-3. Access your personalised RSS Reader and Podcast Player on https://yourusername.github.io/rssTea
+3. Access your personalised RSS Reader and Podcast Player on https://yourusername.github.io/Primus News
 
 This project is available under the GNU GPL License.
 
@@ -26,5 +26,5 @@ This project is available under the GNU GPL License.
 
 Feel free to contribute to this project and make it even better! If you encounter any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-Thank you for using rssTea! Happy browsing and listening! 🍵🎧
+Thank you for using Primus News! Happy browsing and listening! 🍵🎧
 
