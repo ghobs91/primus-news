@@ -32,3 +32,8 @@ https://ir.paramount.com/rss/news-releases.xml
 https://www.globenewswire.com/RssFeed/subjectcode/21-Initial%20Public%20Offerings/feedTitle/GlobeNewswire%20-%20Initial%20Public%20Offerings
 https://www.globenewswire.com/RssFeed/subjectcode/72-Press%20Releases/feedTitle/GlobeNewswire%20-%20Press%20Releases
 https://news.un.org/feed/subscribe/en/news/all/rss.xml
+https://www.globenewswire.com/RssFeed/subjectcode/14-Economic%20Research%20And%20Reports/feedTitle/GlobeNewswire%20-%20Economic%20Research%20And%20Reports
+https://www.globenewswire.com/RssFeed/subjectcode/32-Product%202f%20Services%20Announcement/feedTitle/GlobeNewswire%20-%20Product%20,%20Services%20Announcement
+https://investor.activision.com/rss/news-releases.xml
+https://taketwointeractivesoftwareinc.gcs-web.com/rss/news-releases.xml?items=15
+https://news.ea.com/rss/pressrelease.aspx
