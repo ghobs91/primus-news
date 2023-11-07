@@ -9,7 +9,6 @@ https://www.nasa.gov/news-release/feed/
 https://treasurydirect.gov/TA_WS/securities/announced/rss
 https://www.epa.gov/newsreleases/search/rss
 https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml
-https://www.ed.gov/news/press-releases/feed
 https://www.apple.com/newsroom/rss-feed.rss
 https://blog.google/rss/
 https://www.commerce.gov/feeds/news
@@ -34,4 +33,10 @@ https://news.un.org/feed/subscribe/en/news/all/rss.xml
 https://investor.activision.com/rss/news-releases.xml
 https://taketwointeractivesoftwareinc.gcs-web.com/rss/news-releases.xml?items=15
 https://news.ea.com/rss/pressrelease.aspx
-https://morss.it/:items=||*[class=result-content]/https://www.energy.gov/newsroom?f%5B0%5D=article_type%3APress%20Releases
+https://www.energy.gov/rss/<front>/2193718
+https://www.ed.gov/news/press-releases/feed
+https://blog.ssa.gov/feed/
+https://news.va.gov/news-release-sections/news-release/feed/
+https://www.hhs.gov/rss/news.xml
+https://www.healthcare.gov/blog/blog.rss
+https://votesmart.org/rss/key-votes
