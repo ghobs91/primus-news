@@ -35,3 +35,4 @@ https://news.un.org/feed/subscribe/en/news/all/rss.xml
 https://investor.activision.com/rss/news-releases.xml
 https://taketwointeractivesoftwareinc.gcs-web.com/rss/news-releases.xml?items=15
 https://news.ea.com/rss/pressrelease.aspx
+https://morss.it/:items=||*[class=result-content]/https://www.energy.gov/newsroom?f%5B0%5D=article_type%3APress%20Releases
