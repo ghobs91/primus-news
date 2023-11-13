@@ -42,3 +42,4 @@ https://www.healthcare.gov/blog/blog.rss
 https://votesmart.org/rss/key-votes
 https://www.eia.gov/rss/todayinenergy.xml
 https://www.eia.gov/rss/press_rss.xml
+https://www.eucom.mil/syndication-feed/rss/articles
