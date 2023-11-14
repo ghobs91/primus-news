@@ -48,3 +48,4 @@ https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss&category=
 https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss&category=793
 https://morss.it/:items=||*[class=archive-list-details]/https://www.wmata.com/about/news/
 https://www.transitchicago.com/rss/newsrss.aspx
+https://morss.it/https://www.mbta.com/news
