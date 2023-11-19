@@ -12,8 +12,14 @@
 }
 
 .post {
-    border-bottom: 1px dotted #ddd;
-    border-bottom: 1px dotted var(--grey);
+    border-color: #18181c !important;
+    border-radius: .75rem;
+    background-color: #18181c !important;
+    box-shadow: 0 0 10px #000000bf;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
 }
 
 
