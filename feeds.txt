@@ -55,3 +55,4 @@ https://www.bls.gov/feed/empsit.rss
 https://council.nyc.gov/press/feed/
 https://morss.it/:items=||*[class=ma__general-teaser__details]/https://www.mass.gov/press-releases/recent
 https://www.ftc.gov/feeds/press-release-consumer-protection.xml
+https://morss.it/:items=||*[class=item]/https://www.spacex.com/updates/index.html
