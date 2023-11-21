@@ -10,11 +10,9 @@ https://treasurydirect.gov/TA_WS/securities/announced/rss
 https://www.epa.gov/newsreleases/search/rss
 https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml
 https://www.apple.com/newsroom/rss-feed.rss
-https://blog.google/rss/
 https://www.commerce.gov/feeds/news
 https://www.aboutamazon.com/news/company-news.rss
 https://investor.fb.com/rss/pressrelease.aspx
-https://morss.it/:items=||*[class=press-release-teaser__title]/https://ir.tesla.com/press
 https://nvidianews.nvidia.com/releases.xml
 https://www.intc.com/news-events/press-releases/rss
 https://ir.amd.com/news-events/press-releases/rss
@@ -27,7 +25,6 @@ https://www.cmcsa.com/rss/news-releases.xml?items=15
 https://investors.delltechnologies.com/rss/news-releases.xml
 https://jpmorganchaseco.gcs-web.com/rss/news-releases.xml
 https://ir.netflix.net/rss/pressrelease.aspx
-https://ir.paramount.com/rss/news-releases.xml
 https://www.globenewswire.com/RssFeed/subjectcode/21-Initial%20Public%20Offerings/feedTitle/GlobeNewswire%20-%20Initial%20Public%20Offerings
 https://news.un.org/feed/subscribe/en/news/all/rss.xml
 https://investor.activision.com/rss/news-releases.xml
@@ -46,14 +43,10 @@ https://www.eucom.mil/syndication-feed/rss/articles
 https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss&category=797
 https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss&category=796
 https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss&category=793
-https://morss.it/:items=||*[class=archive-list-details]/https://www.wmata.com/about/news/
 https://www.transitchicago.com/rss/newsrss.aspx
 https://morss.it/https://www.mbta.com/news
 https://www.bls.gov/feed/cpi.rss
 https://www.bls.gov/feed/realer.rss
 https://www.bls.gov/feed/empsit.rss
 https://council.nyc.gov/press/feed/
-https://morss.it/:items=||*[class=ma__general-teaser__details]/https://www.mass.gov/press-releases/recent
 https://www.ftc.gov/feeds/press-release-consumer-protection.xml
-https://morss.it/:items=||*[class=item]/https://www.spacex.com/updates/index.html
-https://morss.it/:items=||*[class=card]/https://edc.nyc/press
