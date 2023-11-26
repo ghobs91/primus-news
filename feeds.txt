@@ -50,3 +50,4 @@ https://www.bls.gov/feed/realer.rss
 https://www.bls.gov/feed/empsit.rss
 https://council.nyc.gov/press/feed/
 https://www.ftc.gov/feeds/press-release-consumer-protection.xml
+https://morss.it/https://media.amtrak.com/news/
