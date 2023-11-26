@@ -51,3 +51,4 @@ https://www.bls.gov/feed/empsit.rss
 https://council.nyc.gov/press/feed/
 https://www.ftc.gov/feeds/press-release-consumer-protection.xml
 https://morss.it/https://media.amtrak.com/news/
+https://morss.it/:items=||*[class=media-body]/https://www.sis.gov.eg/section/9507/9489?lang=en-us
