@@ -30,7 +30,6 @@ https://news.un.org/feed/subscribe/en/news/all/rss.xml
 https://investor.activision.com/rss/news-releases.xml
 https://taketwointeractivesoftwareinc.gcs-web.com/rss/news-releases.xml?items=15
 https://news.ea.com/rss/pressrelease.aspx
-https://www.energy.gov/rss/<front>/2193718
 https://www.ed.gov/news/press-releases/feed
 https://blog.ssa.gov/feed/
 https://news.va.gov/news-release-sections/news-release/feed/
