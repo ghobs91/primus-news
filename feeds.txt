@@ -52,3 +52,4 @@ https://apps.bea.gov/rss/rss.xml
 https://morss.it/:items=||*[class=card-body]/https://www.transportation.gov/newsroom/press-releases
 http://bigdatablog.emc.com/?feed=rss2
 https://www.cms.gov/newsroom/rss-feeds
+https://www.af.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1&isdashboardselected=0&max=20&Category=755
