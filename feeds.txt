@@ -54,3 +54,10 @@ https://morss.it/:items=||*[class=card-body]/https://www.transportation.gov/news
 http://bigdatablog.emc.com/?feed=rss2
 https://www.cms.gov/newsroom/rss-feeds
 https://www.af.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1&isdashboardselected=0&max=20&Category=755
+https://newsroom.intel.com/feed
+https://about.fb.com/news/feed/
+https://blogs.nvidia.com/feed/
+https://openai.com/news/rss.xml
+https://blog.google/rss/
+https://blogs.microsoft.com/feed/
+https://news.xbox.com/en-us/feed/
