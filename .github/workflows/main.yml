@@ -1,4 +1,4 @@
-name: Fetch new feeds and push content to Github Pages
+name: Fetch new feeds and push content to GitHub Pages
 
 on:
   push:
@@ -57,10 +57,10 @@ jobs:
           git push origin main
 
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
-          path: './public'  # Ensure feeds.php writes to this folder
+          path: './public'
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
