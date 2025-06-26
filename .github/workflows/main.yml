@@ -31,7 +31,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Ensures full git history for pull/commit/push
+          fetch-depth: 0
 
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
@@ -40,9 +40,6 @@ jobs:
 
       - name: Run feeds.php
         run: php feeds.php
-
-      - name: Show output files
-        run: ls -R
 
       - name: Configure Git
         run: |
@@ -60,10 +57,10 @@ jobs:
           git push origin main
 
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v1
         with:
-          path: './public'  # Make sure feeds.php outputs here
+          path: './public'  # Ensure feeds.php writes to this folder
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v1
