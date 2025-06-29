@@ -6,10 +6,8 @@ on:
     paths:
       - 'feeds.php'
       - 'base.html'
-
   schedule:
     - cron: '*/30 * * * *'
-
   workflow_dispatch:
 
 permissions:
@@ -49,18 +47,18 @@ jobs:
       - name: Commit changes if any
         run: |
           git add --all
-          git diff --cached --quiet || git commit -m "Updating the repository"
+          git diff --cached --quiet || git commit -m "Update site"
 
-      - name: Pull and push changes
+      - name: Push changes
         run: |
           git pull --rebase
           git push origin main
 
-      - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v2
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: './public'
+          path: './public/'
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
